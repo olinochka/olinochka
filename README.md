@@ -1,7 +1,7 @@
 ## About me
 
 ## My CV
-
+[Link to my CV](https://hh.ru/resume/ea065029ff08c9ebaf0039ed1f4a52726e3758?disableBrowserCache=true&hhtmFrom=resume_list)
 ## Language and tools
 
 ## Testing documentation
