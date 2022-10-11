@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me
 
-<!--
-**olinochka/olinochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My CV
 
-Here are some ideas to get you started:
+## Language and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Testing documentation
+- [Checklists](https://github.com/)
+- [Test-Suites and Test-Cases](https://github.com/)
+- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Postman Collections](https://github.com/artichokeee/postman)
+## Contacts
+
