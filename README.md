@@ -15,10 +15,8 @@ QA Engineer and Animal Crossing enthusiast.
 )
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ## Testing documentation
-- [Checklists](https://github.com/)
-- [Test-Suites and Test-Cases](https://github.com/)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists and Test-Cases](https://github.com/olinochka/testdocs)
+- [Postman Collections](https://github.com/olinochka/postman)
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/olinochka/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/olinochka)
