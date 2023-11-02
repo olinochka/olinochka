@@ -2,7 +2,7 @@
 QA Engineer and Animal Crossing enthusiast. 
 ## My CV
 [Link to my CV](https://hh.ru/resume/ea065029ff08c9ebaf0039ed1f4a52726e3758?disableBrowserCache=true&hhtmFrom=resume_list)
-## Language and tools
+## Tools and languages
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=249545)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
